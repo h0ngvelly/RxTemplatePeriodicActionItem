@@ -7,7 +7,6 @@
   "Code": "RepeatSettingC",
   "ExtraSearchProperties": [],
   "IsChildEntity": true,
-  "NonVisualAuthorizationMode": "FullAccess",
   "Overridden": [
     "AccessRightsMode",
     "NonVisualAuthorizationMode"
@@ -58,7 +57,7 @@
   "Versions": [
     {
       "Type": "EntityMetadata",
-      "Number": 14
+      "Number": 12
     }
   ]
 }

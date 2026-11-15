@@ -794,7 +794,6 @@
       "PreviousInplaceFormGuid": "4d4ac9a3-989b-430e-acec-9f32b023e1d7"
     }
   ],
-  "FormViewUuid": "12d1c523-1ebe-4a91-90f1-b713b346329d",
   "HandledEvents": [
     "CreatedServer",
     "RefreshClient",
@@ -804,7 +803,6 @@
   "IconResourcesKeys": [],
   "IsStatusEnabled": true,
   "IsVisible": false,
-  "ListViewUuid": "102a2119-8705-43af-b991-dd9f62cd78ac",
   "OperationsClass": "",
   "Overridden": [
     "AccessRightsMode",
@@ -1740,7 +1738,7 @@
   "Versions": [
     {
       "Type": "EntityMetadata",
-      "Number": 14
+      "Number": 12
     }
   ]
 }

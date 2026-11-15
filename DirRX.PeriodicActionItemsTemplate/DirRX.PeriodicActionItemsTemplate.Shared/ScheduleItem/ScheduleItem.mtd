@@ -107,7 +107,6 @@
       ]
     }
   ],
-  "FormViewUuid": "61b99619-5ea4-4c75-93e7-f6c11cae4dac",
   "HandledEvents": [
     "RefreshClient",
     "CreatedServer",
@@ -120,7 +119,6 @@
   "IsAutoCreated": true,
   "IsStatusEnabled": true,
   "IsVisible": false,
-  "ListViewUuid": "f18d62c8-8055-4aa3-a2cc-cf933ede3e85",
   "LookupMode": "Standalone",
   "OperationsClass": "",
   "Overridden": [
@@ -253,7 +251,7 @@
   "Versions": [
     {
       "Type": "EntityMetadata",
-      "Number": 14
+      "Number": 12
     }
   ]
 }
